@@ -1,0 +1,5 @@
+Encapsulamiento: atributos protegidos para que solo fuesen visibles a las clases hijas.
+Herencia: Clases Televisor, Computador y Celular heredan de Producto y añaden atributos nuevos.
+Polimorfismo: sobrecarga del método ShowInfo, y dentro de la clase LinkedList, del método AddAtTail.
+Modularización: Clases que cumplen sus funciones propias. Clase creador por ejemplo. 
+Principios de diseño: SOLID, GRASP,la clase Creador es un ejemplo de SOLID y GRASP.
